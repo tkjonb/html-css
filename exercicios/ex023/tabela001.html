@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabela001</title>
+    <style>
+        body{
+            background-color: aliceblue;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        table{
+            width: 400px;
+            border-collapse: collapse;
+        }
+        tr{
+            background-color: antiquewhite;
+        }
+        tr.linha{
+            background-color: aquamarine;
+        }
+        td{
+            border: 1px solid black;
+            padding: 8px;
+        }
+        td.dado{
+            background-color: chartreuse;
+        }
+
+    </style>
+</head>
+<body>
+    <!--
+    Hierarquia das Tabelas Simples em HTML5
+        TABLE=Tabela
+            TABLE ROW= linha de tabela
+                TABLE HEADER= cabeçalho de tabela
+                    TABLE DATA= Dado de tabela
+    -->
+    <h1>Minha primeira tabela!</h1>
+    <table>
+        <tr><!--primeira linha-->
+            <td>a1</td>
+            <td>b1</td>
+            <td>c1</td>
+        </tr>
+        <tr class="linha"> <!--segunda linha-->
+            <td>a2</td>
+            <td>b2</td>
+            <td>c2</td>
+        </tr>
+        <tr> <!--terceira linha-->
+            <td class="dado">a3</td>
+            <td>b3</td>
+            <td>c3</td>
+        </tr>
+        <tr><!--quarta linha-->
+            <td>a4</td>
+            <td>b4</td>
+            <td>c4</td>
+        </tr>
+    </table>
+</body>
+</html>
