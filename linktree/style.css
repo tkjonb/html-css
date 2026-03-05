@@ -1,0 +1,236 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Gelasio:ital,wght@0,400..700;1,400..700&family=Passion+One:wght@400;700;900&display=swap');
+:root{
+    --fonte1: verdana, geneva, tahoma, sans-serif;
+    --fonte2:"Passion One", sans-serif;
+    --fonte3:"Gelasio", cursive, serif;
+}
+* {
+  user-select: none;
+}
+/*BODY -----------------------------------------------------*/
+body{
+    background-image: linear-gradient(90deg, orange, rgb(255, 0, 0), orange);
+    background-repeat: initial;
+    background-size: 140%;
+}
+/*MAIN -----------------------------------------------------*/
+main{
+    max-width: 800px;
+    margin: 10px auto;
+    padding: 10px;
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.333);
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.146);
+    border: 5px solid rgba(255, 255, 255, 0.242);
+
+}
+/*H1 -----------------------------------------------------*/
+h1{
+    text-align: center;
+    margin: 20px 10px 10px 10px;
+    padding: 0px;
+    color: rgb(255, 241, 241);
+    font-size: 5vh;
+    font-family: var(--fonte1);
+}
+/*H2 -----------------------------------------------------*/
+h2{
+    text-align: center;
+    margin: 0px 0px 10px 0px;
+    padding: 0px;
+    color: rgb(178, 241, 134);
+    font-size: 2.5em;
+    font-family: var(--fonte2);
+}
+div > h2{
+    margin: 15px;
+}
+/*H3 -----------------------------------------------------*/
+h3{
+    text-align: center;
+    color: rgba(255, 255, 255, 0.806);
+    font-family: var(--fonte2);
+}
+/*P -----------------------------------------------------*/
+p{
+    font-family: var(--fonte1);
+    font-size: larger;
+    text-align: center;
+}
+/*ICONS -----------------------------------------------------*/
+.icon1{
+    width: 45px;
+}
+.icon2{
+    width: 80px;
+}
+.icon3{
+    width: 40px;
+}
+p.icons{
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+/*PFP -----------------------------------------------------*/
+div#PFP img{
+    border-radius: 400px;
+    max-width: 30vh;
+    margin: 20px auto;
+    display: block;
+    box-shadow: 5px 2px 2px rgba(0, 0, 0, 0.255);
+    border: 3px solid rgba(255, 255, 255, 0.274);
+}
+/*EFEITOS PFP -----------------------------------------------------*/
+#PFP input{
+    display: none;
+}
+
+#PFP img{
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+/* estado normal */
+#PFP h2#secret{
+
+    opacity: 0;
+    transform: translateY(-10px);
+    transition: all 0.4s ease;
+    font-size: 0em;
+    margin: 0px;
+    
+}
+#PFP h2#clique{
+    display: block;
+    opacity: 1;
+    transform: translateY(-10px);
+    transition: all 0.4s ease;
+    padding: 0px;
+    margin: 0px 0px 0px 0px;
+    font-size: 1.5em;
+    color: rgba(0, 0, 0, 0.52);
+}
+
+/*SECTION -----------------------------------------------------*/
+section{
+    margin: 10px auto;
+    padding: 5px;
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.333);
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.146);
+}
+/*ARTICLE -----------------------------------------------------*/
+article.conteudo{
+    margin: 10px 0px 0px 0px;
+}
+article:hover{
+    background-color: rgba(255, 255, 255, 0.16);
+}
+/*FOOTER-----------------------------------------------------*/
+footer{
+    max-width: 800px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.333);
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.146);
+    border: 5px solid rgba(255, 255, 255, 0.242);
+}
+footer p{
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+footer a{
+    text-decoration: none;
+    color: rgb(178, 241, 134);
+}
+footer a:hover{
+    text-decoration: underline;
+}
+
+/* quando clicar */
+#toggle:checked ~ h2#secret{
+    display: block;
+    opacity: 1;
+    transform: translateY(0);
+    font-size: 1.5em;
+    margin: 10px;
+}
+#toggle:checked ~ h2#clique{
+    display: none;
+    opacity: 0;
+    transform: translateY(0);
+}
+div#PFP img{
+    transition: transform 0.3s ease; /* suavidade */
+}
+div#PFP:hover img{
+    transform: scale(1.05);
+}
+/* EFEITOS------------------------------------------------------------*/
+.zoom{
+     transition: transform 0.3s ease; /* suavidade */
+}
+
+.zoom:hover {
+  transform: scale(1.020); /* aumenta 10% */
+}
+.caixa input{
+    display: none;
+}
+
+.titulo{
+    display: block;
+    background: #222;
+    color: white;
+    padding: 12px;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+.conteudo{
+    max-height: 0;
+    overflow: hidden;
+    background: #45040423;
+    color: white;
+    padding: 0 12px;
+    border-radius: 20px;
+    transition: max-height 0.4s ease, padding 0.4s ease;
+}
+
+/* quando clicar */
+
+#SOBRE:checked ~ .conteudo{
+    max-height: 200px;
+    padding: 12px;
+}
+
+#REDES:checked ~ .conteudo{
+    max-height: 200px;
+    padding: 12px;
+}
+#PROJETOS:checked ~ .conteudo{
+    max-height: 200px;
+    padding: 12px;
+}
+
+
+.glow {
+  color: #fff;
+  transition: text-shadow 0.3s ease; /* suavidade */
+
+}
+
+.glow:hover {
+  /* brilho forte */
+  text-shadow:
+    0 0 1px rgb(255, 255, 255),
+    0 0 16px rgb(255, 255, 255),
+    0 0 32px rgb(255, 255, 255),
+    0 0 48px rgb(255, 255, 255);
+}

@@ -208,18 +208,13 @@ p{
 .glow {
   color: #fff;
   transition: text-shadow 0.3s ease; /* suavidade */
-  
-  /* brilho fraco */
-  text-shadow: 
-    0 0 8px rgb(0, 0, 0),
-    0 0 8px rgb(255, 255, 255);
 }
 
 .glow:hover {
   /* brilho forte */
   text-shadow:
-    0 0 8px rgb(0, 0, 0),
-    0 0 16px rgb(255, 255, 255),
+    0 0 0px rgba(255, 255, 255, 0.69),
+    0 0 10px rgb(255, 255, 255),
     0 0 32px rgb(255, 255, 255),
     0 0 48px rgb(255, 255, 255);
 }
