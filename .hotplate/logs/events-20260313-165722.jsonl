@@ -1,0 +1,645 @@
+{"ts":"2026-03-13T16:57:22.532Z","session":"20260313-165722","kind":"server_start","data":{"port":5500,"host":"0.0.0.0","root":"/home/tkjonb/Documentos/estudos/html-css","https":false,"live_reload":true}}
+{"ts":"2026-03-13T16:57:23.394Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form03.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T16:57:23.713Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c0","url":"http://localhost:5500/exercicios/ex025/form03.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T16:57:47.427Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"create"}}
+{"ts":"2026-03-13T16:57:47.427Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T16:57:47.428Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c0"}}
+{"ts":"2026-03-13T16:57:47.435Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form03.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T16:57:47.698Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c1","url":"http://localhost:5500/exercicios/ex025/form03.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T16:57:50.833Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T16:57:50.833Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T16:57:50.835Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c1"}}
+{"ts":"2026-03-13T16:57:50.845Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form03.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T16:57:51.061Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c2","url":"http://localhost:5500/exercicios/ex025/form03.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T16:57:54.159Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T16:57:54.159Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T16:57:54.162Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c2"}}
+{"ts":"2026-03-13T16:57:54.168Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form03.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T16:57:54.541Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c3","url":"http://localhost:5500/exercicios/ex025/form03.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T16:58:00.897Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T16:58:00.897Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T16:58:00.900Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c3"}}
+{"ts":"2026-03-13T16:58:00.911Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form03.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T16:58:01.282Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c4","url":"http://localhost:5500/exercicios/ex025/form03.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T16:58:02.449Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T16:58:02.450Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T16:58:02.452Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c4"}}
+{"ts":"2026-03-13T16:58:02.461Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form03.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T16:58:02.816Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c5","url":"http://localhost:5500/exercicios/ex025/form03.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T16:58:04.743Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T16:58:04.743Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T16:58:04.745Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c5"}}
+{"ts":"2026-03-13T16:58:04.754Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form03.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T16:58:05.111Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c6","url":"http://localhost:5500/exercicios/ex025/form03.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T16:58:12.629Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T16:58:12.629Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T16:58:12.630Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c6"}}
+{"ts":"2026-03-13T16:58:12.638Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form03.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T16:58:13.007Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c7","url":"http://localhost:5500/exercicios/ex025/form03.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T16:58:14.370Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T16:58:14.370Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T16:58:14.371Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c7"}}
+{"ts":"2026-03-13T16:58:14.378Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form03.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T16:58:14.755Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c8","url":"http://localhost:5500/exercicios/ex025/form03.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T16:58:17.631Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T16:58:17.631Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T16:58:17.632Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c8"}}
+{"ts":"2026-03-13T16:58:17.641Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form03.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T16:58:17.901Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c9","url":"http://localhost:5500/exercicios/ex025/form03.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T16:58:19.837Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T16:58:19.837Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T16:58:19.839Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c9"}}
+{"ts":"2026-03-13T16:58:19.847Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form03.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T16:58:20.117Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c10","url":"http://localhost:5500/exercicios/ex025/form03.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T16:58:22.038Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T16:58:22.038Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T16:58:22.040Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c10"}}
+{"ts":"2026-03-13T16:58:22.047Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form03.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T16:58:22.424Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c11","url":"http://localhost:5500/exercicios/ex025/form03.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T16:58:23.356Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T16:58:23.356Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T16:58:23.358Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c11"}}
+{"ts":"2026-03-13T16:58:23.368Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form03.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T16:58:23.591Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c12","url":"http://localhost:5500/exercicios/ex025/form03.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T16:58:30.184Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T16:58:30.184Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T16:58:30.187Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c12"}}
+{"ts":"2026-03-13T16:58:30.202Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form03.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T16:58:30.434Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c13","url":"http://localhost:5500/exercicios/ex025/form03.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T16:58:34.302Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T16:58:34.302Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T16:58:34.304Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c13"}}
+{"ts":"2026-03-13T16:58:34.311Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form03.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T16:58:34.661Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c14","url":"http://localhost:5500/exercicios/ex025/form03.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T16:58:37.708Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T16:58:37.708Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T16:58:37.711Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c14"}}
+{"ts":"2026-03-13T16:58:37.719Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form03.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T16:58:38.016Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c15","url":"http://localhost:5500/exercicios/ex025/form03.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T16:58:41.671Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T16:58:41.756Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c16","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T16:58:44.137Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c15"}}
+{"ts":"2026-03-13T16:58:52.581Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T16:58:52.581Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T16:58:52.585Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c16"}}
+{"ts":"2026-03-13T16:58:52.595Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T16:58:53.038Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c17","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T16:58:59.032Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T16:58:59.032Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T16:58:59.039Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c17"}}
+{"ts":"2026-03-13T16:58:59.056Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T16:58:59.296Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c18","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T16:59:00.102Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T16:59:00.102Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T16:59:00.103Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c18"}}
+{"ts":"2026-03-13T16:59:00.112Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T16:59:00.315Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c19","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T16:59:06.709Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T16:59:06.709Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T16:59:06.710Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c19"}}
+{"ts":"2026-03-13T16:59:06.722Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":1}}
+{"ts":"2026-03-13T16:59:06.969Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c20","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T16:59:12.466Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T16:59:12.467Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T16:59:12.468Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c20"}}
+{"ts":"2026-03-13T16:59:12.477Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T16:59:12.814Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c21","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T16:59:19.304Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T16:59:19.305Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T16:59:19.308Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c21"}}
+{"ts":"2026-03-13T16:59:19.316Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T16:59:19.629Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c22","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T16:59:21.955Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T16:59:21.955Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T16:59:21.959Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c22"}}
+{"ts":"2026-03-13T16:59:21.972Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T16:59:22.347Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c23","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T16:59:28.346Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T16:59:28.346Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T16:59:28.352Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c23"}}
+{"ts":"2026-03-13T16:59:28.365Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T16:59:28.633Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c24","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T16:59:32.170Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T16:59:32.171Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T16:59:32.174Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c24"}}
+{"ts":"2026-03-13T16:59:32.197Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":1}}
+{"ts":"2026-03-13T16:59:32.412Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c25","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T16:59:45.343Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T16:59:45.343Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T16:59:45.347Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c25"}}
+{"ts":"2026-03-13T16:59:45.372Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T16:59:45.598Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c26","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:00:01.394Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:00:01.394Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:00:01.396Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c26"}}
+{"ts":"2026-03-13T17:00:01.407Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:00:01.706Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c27","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:00:04.525Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:00:04.526Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:00:04.527Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c27"}}
+{"ts":"2026-03-13T17:00:04.553Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:00:04.844Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c28","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:00:41.645Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:00:41.645Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:00:41.647Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c28"}}
+{"ts":"2026-03-13T17:00:41.656Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:00:41.946Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c29","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:00:43.083Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:00:43.084Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:00:43.085Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c29"}}
+{"ts":"2026-03-13T17:00:43.107Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:00:43.479Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c30","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:00:47.857Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:00:47.857Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:00:47.858Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c30"}}
+{"ts":"2026-03-13T17:00:47.865Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:00:48.072Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c31","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:00:49.427Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:00:49.427Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:00:49.429Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c31"}}
+{"ts":"2026-03-13T17:00:49.434Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:00:49.754Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c32","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:00:51.470Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:00:51.471Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:00:51.472Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c32"}}
+{"ts":"2026-03-13T17:00:51.479Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:00:51.706Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c33","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:00:53.965Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:00:53.965Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:00:53.967Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c33"}}
+{"ts":"2026-03-13T17:00:53.977Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:00:54.245Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c34","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:00:58.617Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:00:58.617Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:00:58.619Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c34"}}
+{"ts":"2026-03-13T17:00:58.627Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:00:58.828Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c35","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:01:00.762Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:01:00.762Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:01:00.764Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c35"}}
+{"ts":"2026-03-13T17:01:00.792Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:01:01.118Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c36","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:01:09.296Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:01:09.296Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:01:09.301Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c36"}}
+{"ts":"2026-03-13T17:01:09.312Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:01:09.684Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c37","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:01:12.390Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:01:12.391Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:01:12.392Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c37"}}
+{"ts":"2026-03-13T17:01:12.400Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:01:12.704Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c38","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:01:16.325Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:01:16.327Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:01:16.349Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c38"}}
+{"ts":"2026-03-13T17:01:16.361Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:01:16.562Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c39","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:01:24.841Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:01:24.841Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:01:24.844Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c39"}}
+{"ts":"2026-03-13T17:01:24.882Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:01:25.104Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c40","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:01:29.744Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:01:29.744Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:01:29.746Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c40"}}
+{"ts":"2026-03-13T17:01:29.756Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:01:29.957Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c41","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:01:31.789Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:01:31.789Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:01:31.795Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c41"}}
+{"ts":"2026-03-13T17:01:31.823Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:01:32.109Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c42","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:01:57.341Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:01:57.341Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:01:57.342Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c42"}}
+{"ts":"2026-03-13T17:01:57.349Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:01:57.734Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c43","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:01:58.711Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:01:58.712Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:01:58.715Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c43"}}
+{"ts":"2026-03-13T17:01:58.723Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:01:58.972Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c44","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:02:09.061Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:02:09.062Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:02:09.072Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c44"}}
+{"ts":"2026-03-13T17:02:09.095Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:02:09.352Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c45","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:02:14.486Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:02:14.487Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:02:14.489Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c45"}}
+{"ts":"2026-03-13T17:02:14.497Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:02:14.778Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c46","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:02:57.701Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:02:57.702Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:02:57.703Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c46"}}
+{"ts":"2026-03-13T17:02:57.716Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:02:57.959Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c47","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:03:04.652Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:03:04.652Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:03:04.654Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c47"}}
+{"ts":"2026-03-13T17:03:04.664Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:03:04.984Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c48","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:03:07.878Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:03:07.878Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:03:07.880Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c48"}}
+{"ts":"2026-03-13T17:03:07.886Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:03:08.221Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c49","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:03:10.602Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:03:10.602Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:03:10.604Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c49"}}
+{"ts":"2026-03-13T17:03:10.617Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:03:10.871Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c50","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:03:13.613Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:03:13.614Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:03:13.617Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c50"}}
+{"ts":"2026-03-13T17:03:13.634Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:03:13.943Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c51","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:03:14.710Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:03:14.710Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:03:14.714Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c51"}}
+{"ts":"2026-03-13T17:03:14.729Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:03:15.062Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c52","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:03:19.349Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:03:19.349Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:03:19.352Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c52"}}
+{"ts":"2026-03-13T17:03:19.363Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:03:19.745Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c53","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:03:22.232Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:03:22.232Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:03:22.234Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c53"}}
+{"ts":"2026-03-13T17:03:22.243Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:03:22.472Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c54","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:03:25.039Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:03:25.039Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:03:25.040Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c54"}}
+{"ts":"2026-03-13T17:03:25.047Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:03:25.273Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c55","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:03:27.013Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:03:27.014Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:03:27.017Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c55"}}
+{"ts":"2026-03-13T17:03:27.029Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:03:27.290Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c56","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:03:32.288Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:03:32.288Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:03:32.289Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c56"}}
+{"ts":"2026-03-13T17:03:32.297Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:03:32.662Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c57","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:04:04.206Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c57"}}
+{"ts":"2026-03-13T17:04:21.294Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:04:24.869Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:04:43.714Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:04:43.781Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c58","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:08:02.171Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:08:02.172Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:08:02.174Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c58"}}
+{"ts":"2026-03-13T17:08:02.184Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:08:02.481Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c59","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:08:05.041Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:08:05.041Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:08:05.044Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c59"}}
+{"ts":"2026-03-13T17:08:05.057Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:08:05.286Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c60","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:08:07.161Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:08:07.161Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:08:07.163Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c60"}}
+{"ts":"2026-03-13T17:08:07.169Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:08:07.482Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c61","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:08:11.317Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:08:11.317Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:08:11.321Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c61"}}
+{"ts":"2026-03-13T17:08:11.329Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:08:11.541Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c62","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:08:16.778Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:08:16.778Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:08:16.780Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c62"}}
+{"ts":"2026-03-13T17:08:16.786Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:08:17.128Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c63","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:08:22.041Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:08:22.041Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:08:22.045Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c63"}}
+{"ts":"2026-03-13T17:08:22.063Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:08:22.273Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c64","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:08:26.043Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:08:26.043Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:08:26.047Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c64"}}
+{"ts":"2026-03-13T17:08:26.062Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":1}}
+{"ts":"2026-03-13T17:08:26.297Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c65","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:08:27.411Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:08:27.411Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:08:27.413Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c65"}}
+{"ts":"2026-03-13T17:08:27.420Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:08:27.798Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c66","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:08:29.398Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:08:29.398Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:08:29.404Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c66"}}
+{"ts":"2026-03-13T17:08:29.416Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:08:29.740Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c67","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:08:31.907Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:08:31.907Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:08:31.910Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c67"}}
+{"ts":"2026-03-13T17:08:31.917Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:08:32.302Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c68","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:08:35.033Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:08:35.033Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:08:35.034Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c68"}}
+{"ts":"2026-03-13T17:08:35.046Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:08:35.436Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c69","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:08:56.689Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:08:56.689Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:08:56.691Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c69"}}
+{"ts":"2026-03-13T17:08:56.707Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":0}}
+{"ts":"2026-03-13T17:08:57.009Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c70","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:08:58.175Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form04.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:08:58.175Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form04.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:08:58.178Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c70"}}
+{"ts":"2026-03-13T17:08:58.186Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":200,"duration_ms":1}}
+{"ts":"2026-03-13T17:08:58.404Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c71","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:14:45.799Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:14:45.799Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:14:45.800Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c71"}}
+{"ts":"2026-03-13T17:14:45.830Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":4}}
+{"ts":"2026-03-13T17:14:46.193Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c72","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:14:49.205Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:14:49.205Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:14:49.209Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c72"}}
+{"ts":"2026-03-13T17:14:49.217Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:14:49.611Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c73","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:15:25.196Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:15:25.196Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:15:25.197Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c73"}}
+{"ts":"2026-03-13T17:15:25.201Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:15:25.430Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c74","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:15:32.725Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:15:32.725Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:15:32.727Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c74"}}
+{"ts":"2026-03-13T17:15:32.748Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:15:33.059Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c75","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:15:38.217Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:15:38.217Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:15:38.221Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c75"}}
+{"ts":"2026-03-13T17:15:38.304Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:15:38.474Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c76","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:15:40.514Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:15:40.514Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:15:40.516Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c76"}}
+{"ts":"2026-03-13T17:15:40.520Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:15:40.792Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c77","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:15:46.059Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:15:46.059Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:15:46.060Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c77"}}
+{"ts":"2026-03-13T17:15:46.063Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:15:46.268Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c78","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:16:08.904Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:16:08.904Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:16:08.906Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c78"}}
+{"ts":"2026-03-13T17:16:08.914Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:16:09.170Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c79","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:16:19.968Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:16:19.969Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:16:19.972Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c79"}}
+{"ts":"2026-03-13T17:16:19.977Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:16:20.373Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c80","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:16:22.720Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:16:22.721Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:16:22.724Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c80"}}
+{"ts":"2026-03-13T17:16:22.728Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:16:23.094Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c81","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:16:29.621Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:16:29.621Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:16:29.624Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c81"}}
+{"ts":"2026-03-13T17:16:29.631Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:16:29.962Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c82","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:16:34.824Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:16:34.824Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:16:34.825Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c82"}}
+{"ts":"2026-03-13T17:16:34.830Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:16:35.045Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c83","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:16:35.891Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:16:35.891Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:16:35.894Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c83"}}
+{"ts":"2026-03-13T17:16:35.899Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:16:36.245Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c84","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:16:38.588Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:16:38.588Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:16:38.592Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c84"}}
+{"ts":"2026-03-13T17:16:38.598Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:16:38.807Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c85","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:16:40.505Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:16:40.505Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:16:40.508Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c85"}}
+{"ts":"2026-03-13T17:16:40.531Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:16:40.739Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c86","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:16:44.435Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:16:44.435Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:16:44.436Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c86"}}
+{"ts":"2026-03-13T17:16:44.444Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:16:44.756Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c87","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:16:48.079Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:16:48.079Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:16:48.080Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c87"}}
+{"ts":"2026-03-13T17:16:48.086Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:16:48.483Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c88","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:16:55.987Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:16:55.987Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:16:55.992Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c88"}}
+{"ts":"2026-03-13T17:16:56.009Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:16:56.318Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c89","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:16:58.400Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:16:58.400Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:16:58.403Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c89"}}
+{"ts":"2026-03-13T17:16:58.423Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:16:58.741Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c90","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:17:03.782Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:17:03.782Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:17:03.784Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c90"}}
+{"ts":"2026-03-13T17:17:03.789Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:17:04.180Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c91","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:17:08.901Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:17:08.901Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:17:08.902Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c91"}}
+{"ts":"2026-03-13T17:17:08.909Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:17:09.238Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c92","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:17:11.483Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:17:11.483Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:17:11.484Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c92"}}
+{"ts":"2026-03-13T17:17:11.488Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:17:11.885Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c93","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:17:12.580Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:17:12.580Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:17:12.581Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c93"}}
+{"ts":"2026-03-13T17:17:12.601Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:17:12.949Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c94","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:17:14.460Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:17:14.460Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:17:14.462Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c94"}}
+{"ts":"2026-03-13T17:17:14.466Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:17:14.788Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c95","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:17:16.071Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:17:16.072Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:17:16.074Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c95"}}
+{"ts":"2026-03-13T17:17:16.078Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:17:16.366Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c96","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:17:28.358Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:17:28.358Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:17:28.360Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c96"}}
+{"ts":"2026-03-13T17:17:28.399Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:17:28.720Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c97","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:17:34.277Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:17:34.277Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:17:34.278Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c97"}}
+{"ts":"2026-03-13T17:17:34.282Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:17:34.624Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c98","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:17:42.681Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:17:42.681Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:17:42.683Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c98"}}
+{"ts":"2026-03-13T17:17:42.688Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:17:42.970Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c99","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:17:49.483Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:17:49.483Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:17:49.489Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c99"}}
+{"ts":"2026-03-13T17:17:49.498Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:17:49.695Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c100","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:17:55.136Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:17:55.136Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:17:55.137Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c100"}}
+{"ts":"2026-03-13T17:17:55.141Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:17:55.378Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c101","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:18:03.737Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:18:03.737Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:18:03.739Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c101"}}
+{"ts":"2026-03-13T17:18:03.847Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:18:03.991Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c102","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:18:10.626Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:18:10.626Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:18:10.627Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c102"}}
+{"ts":"2026-03-13T17:18:10.633Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:18:10.887Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c103","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:18:15.373Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:18:15.374Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:18:15.375Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c103"}}
+{"ts":"2026-03-13T17:18:15.379Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:18:15.579Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c104","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:18:18.738Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:18:18.738Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:18:18.741Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c104"}}
+{"ts":"2026-03-13T17:18:18.746Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:18:19.144Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c105","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:18:20.637Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:18:20.637Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:18:20.638Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c105"}}
+{"ts":"2026-03-13T17:18:20.667Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:18:20.905Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c106","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:18:26.140Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:18:26.140Z","session":"20260313-165722","kind":"reload_trigger","data":{"path":"exercicios/ex025/form05.html","reload_type":"full"}}
+{"ts":"2026-03-13T17:18:26.143Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c106"}}
+{"ts":"2026-03-13T17:18:26.168Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:18:26.389Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c107","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:18:28.169Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c107"}}
+{"ts":"2026-03-13T17:18:28.173Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:18:28.526Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c108","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:18:28.585Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c108"}}
+{"ts":"2026-03-13T17:18:28.589Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:18:28.767Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:18:28.859Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c109","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:18:35.787Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c109"}}
+{"ts":"2026-03-13T17:18:35.792Z","session":"20260313-165722","kind":"http_request","data":{"method":"GET","path":"/exercicios/ex025/form04.html","status":304,"duration_ms":0}}
+{"ts":"2026-03-13T17:18:36.196Z","session":"20260313-165722","kind":"ws_connect","data":{"client_id":"c110","url":"http://localhost:5500/exercicios/ex025/form04.html","user_agent":"Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0","viewport":[1852,938]}}
+{"ts":"2026-03-13T17:18:42.858Z","session":"20260313-165722","kind":"ws_disconnect","data":{"client_id":"c110"}}
+{"ts":"2026-03-13T17:19:10.101Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:19:14.670Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:19:18.329Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:19:22.789Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:19:26.751Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:19:30.957Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:19:35.529Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:19:39.140Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:19:41.607Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:19:45.811Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:19:49.385Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:19:50.747Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:19:52.529Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:19:56.238Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:20:04.406Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:20:08.039Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:20:38.659Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:20:41.429Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:20:44.759Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:20:46.845Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:20:50.434Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:20:53.448Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:20:56.607Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:21:04.678Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:21:18.304Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:21:27.574Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:21:30.268Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:21:32.955Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:21:41.748Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:21:52.007Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:21:56.597Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:23:43.658Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:23:49.030Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:23:58.503Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:24:05.638Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:24:08.777Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:24:13.166Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:24:15.771Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:24:21.675Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:25:00.010Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:25:11.433Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:25:14.028Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:25:18.875Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:25:22.958Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:25:26.190Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:25:37.226Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:25:39.088Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:25:41.541Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:25:46.204Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:26:45.943Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:26:49.540Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:29:39.142Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:29:42.565Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:29:44.631Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form05.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:35:18.665Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"create"}}
+{"ts":"2026-03-13T17:35:21.074Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:35:31.929Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:35:35.126Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:35:37.510Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:35:39.329Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:35:42.686Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:35:52.227Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:35:55.783Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:35:58.140Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:36:03.620Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:36:11.105Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:36:15.659Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:36:17.209Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:36:19.733Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:36:25.224Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:36:29.482Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:36:30.654Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:36:36.726Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:36:42.286Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:36:49.184Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:36:52.938Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:36:56.783Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:36:59.197Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:37:04.054Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:37:06.091Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:37:09.239Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:37:23.191Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:38:28.496Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:38:33.571Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:38:42.774Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:38:47.312Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:38:53.434Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:38:57.661Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:39:00.780Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:40:03.157Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:41:46.512Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:41:53.400Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:42:00.769Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:42:04.033Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:42:09.337Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:42:14.545Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:43:16.732Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form06.html","ext":"html","change":"modify"}}
+{"ts":"2026-03-13T17:52:49.006Z","session":"20260313-165722","kind":"file_change","data":{"path":"exercicios/ex025/form02.html","ext":"html","change":"modify"}}
