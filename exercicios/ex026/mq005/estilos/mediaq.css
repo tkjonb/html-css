@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/*
+Tipical device break points:
+___________________________________________________________________________
+-Pequenas Telas e Celular: até 480px
+
+-Tablet e Foldables: 481px - 1024px
+
+-Desktop e Laptops:  1025px - 1600px
+
+-TV e Monitores Ultra-Wide:  1601px em diante
+___________________________________________________________________________
+*/
+@media screen and (min-width:481px) {
+    menu{
+        display: block!important;
+    }
+    menu > ul > li{
+        display: inline-block;
+    }
+    span#burguer{
+        display: none;
+    }
+    main{
+        max-width: 900px;
+    }
+}
